@@ -1,16 +1,12 @@
-## Hi there 👋
+Olá! Eu sou o Gustavo 👋  
 
-<!--
-**gustavoDanielVitor/gustavoDanielVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação, com foco em desenvolvimento de sistemas, programação e tecnologia aplicada a negócios.  
+Atuei anteriormente como QA (Quality Assurance), o que me deu uma base forte em qualidade de software, análise de requisitos e testes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência e estudos em:
+- Programação (JavaScript e Python)
+- Desenvolvimento Frontend (HTML, CSS, JavaScript)
+- Banco de dados (SQL)
+- Testes de software (manuais e automatizados com Cypress)
+- Testes de API
+- Metodologias ágeis (Scrum e Kanban)
