@@ -1,12 +1,9 @@
 Olá! Eu sou o Gustavo 👋  
 
-Sou estudante de Sistemas de Informação, com foco em desenvolvimento de sistemas, programação e tecnologia aplicada a negócios.  
-Atuei anteriormente como QA (Quality Assurance), o que me deu uma base forte em qualidade de software, análise de requisitos e testes.
+Sou estudante de Sistemas de Informação Atuando como QA (Quality Assurance) no INATEL Competence Center - Projeto Volkswagen Onibus e Caminhões.
 
-Tenho experiência e estudos em:
-- Programação (JavaScript e Python)
 - Desenvolvimento Frontend (HTML, CSS, JavaScript)
 - Banco de dados (SQL)
 - Testes de software (manuais e automatizados com Cypress)
-- Testes de API
+- Testes de API com Postman e Swagger
 - Metodologias ágeis (Scrum e Kanban)
